@@ -1,0 +1,479 @@
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-16-59~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/getCallTableCutoff.php?days=5, is returning: 0
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-16-59~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/getReqTableCutoff.php?days=5, is returning: 0
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-16-59~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/keyToPh.php?key=3566, is returning: 03239754007
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-16-59~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/CountryCode.php?ph=03239754007, is returning: 32 - Belgium
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-17-03~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/search_phno.php?ph=3566&app=PollyGame&cutoff=0, is returning: 126
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-17-03~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/GetPreferredLangs.php?id=255386, is returning: Urdu,Urdu
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-17-03~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/keyToPh.php?key=3566, is returning: 03239754007
+
+
+
+
+
+
+%%$$~UnAssigned~0~Sun_2017-03-19_12-17-03~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/New_Call.php?reqid=255386&phno=3566&calltype=Call-me-back&status=InProgress&ch=WateenE1, is returning: 690558
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-03~L1:::~App: PollyGame, Call Type: Call-me-back, Phone Number: 3566, Originating Request ID: 255386, Call ID: 690558, Country: PK, ouserid: 03239754007, Age: 126, EHLAge: 0, Country Code: 32
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-03~L0:::~Call Table cutoff found at:0
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-03~L0:::~Req Table cutoff found at:0
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-03~L2:::~sayInt about to play: D:/xampp/htdocs/wa/prompts/Urdu/Polly/sil1500.wav D:/xampp/htdocs/wa/prompts/Urdu/Polly/sil1500.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L0:::~PGame prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/Polly/
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L0:::~PHealth prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/EHL/
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L1:::~Now attempting to call:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L1:::~Calling via WateenE1.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L1:::~Dialling .
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L0:::~Starting Call Recording
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=690558&status=InProgress, is returning: Early Return.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=255386&status=fulfilled&ch=WateenE1, is returning: Early Return.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L2:::~Call Answered.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-06~L0:::~pauseHere is called with param: TRUE
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-07~L2:::~Inside PollyGameAnswerCall(). Calltype: Call-me-back
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-07~L0:::~Starting Call Recording
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-08~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=690558&status=InProgress, is returning: Early Return.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-08~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=255386&status=fulfilled&ch=WateenE1, is returning: Early Return.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-08~L2:::~Call Answered.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-08~L2:::~Playing Greetings
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-08~L2:::~About to listen to PGame Greetings.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-08~L1:::~SA_Menu entered.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-08~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Test3mainprompt1.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-16~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Prompts/Test3mainprompt1.wav was barged-in with 3
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-16~L2:::~sayInt complete. Now returning: value: 3, name: choice, attempt: , choice:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L1:::~SA_Play entered.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L1:::~SA_GetFile entered.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/get_file_id.php?uid=3566&type=Cost&call_id=690558, is returning: {\"result\":{\"error\":false,\"files\":[{\"file_id\":\"1\",\"name\":\"Cost1.wav\",\"info\":\"Cost1-1.wav\",\"tip\":\"Cost1tip.wav\"},{\"file_id\":\"2\",\"name\":\"Cost2.wav\",\"info\":\"Cost2-1.wav\",\"tip\":\"Cost2tip.wav\"},{\"file_id\":\"3\",\"name\":\"Cost3.wav\",\"info\":\"Cost3-1.wav\",\"tip\":\"Cost3tip.wav\"},{\"file_id\":\"4\",\"name\":\"Cost4.wav\",\"info\":\"Cost4-1.wav\",\"tip\":\"Cost4tip.wav\"}]}}
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L1:::~SA_GetFile JSON received: {\"result\":{\"error\":false,\"files\":[{\"file_id\":\"1\",\"name\":\"Cost1.wav\",\"info\":\"Cost1-1.wav\",\"tip\":\"Cost1tip.wav\"},{\"file_id\":\"2\",\"name\":\"Cost2.wav\",\"info\":\"Cost2-1.wav\",\"tip\":\"Cost2tip.wav\"},{\"file_id\":\"3\",\"name\":\"Cost3.wav\",\"info\":\"Cost3-1.wav\",\"tip\":\"Cost3tip.wav\"},{\"file_id\":\"4\",\"name\":\"Cost4.wav\",\"info\":\"Cost4-1.wav\",\"tip\":\"Cost4tip.wav\"}]}}
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L1:::~SA_GetFile returning.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Costintro.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-19~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-43~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav was barged-in with 3
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-43~L2:::~sayInt complete. Now returning: value: 3, name: choice, attempt: , choice:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-43~L1:::~SA_CaptureEvent entered.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-44~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/set_call.php?uid=3566&f_id=1&call_id=690558&action_id=2, is returning: {\"result\":{\"error\":false,\"id\":2,\"message\":\"Call Info Added\"}}
+
+
+
+
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-44~L1:::~SA_CaptureEvent JSON received: {\"result\":{\"error\":false,\"id\":2,\"message\":\"Call Info Added\"}}
+
+
+
+
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-17-44~L1:::~SA_CaptureEvent returning.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-01~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-13~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav was barged-in with 2
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-13~L2:::~sayInt complete. Now returning: value: 2, name: choice, attempt: , choice:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-19~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-24~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav was barged-in with 5
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-24~L2:::~sayInt complete. Now returning: value: 5, name: choice, attempt: , choice:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-34~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-39~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav was barged-in with 3
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-39~L2:::~sayInt complete. Now returning: value: 3, name: choice, attempt: , choice:
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-42~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Cost1.wav
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L1:::~Is the current call active? false. Hanging up if the call is not active.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L2:::~Prehangup was called.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Waiting_DLV_Reqs.php?rcallid=690558, is returning: Early Return.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=690558&status=Answered, is returning: Early Return.
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L0:::~calledID:
+-ERR no reply
+, SessionID: 6e427162-82bc-425c-b007-a9ef70de52dc
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L2:::~Hanging Up. Call ended for callid: 690558
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Endtime.php?callid=690558, is returning: 0
+
+
+
+
+
+
+%%$$~690558~0~Sun_2017-03-19_12-18-45~L0:::~sendLogs called.
+
+
+
+
+
+
+%%$$

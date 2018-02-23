@@ -1,0 +1,1040 @@
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-20~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/getCallTableCutoff.php?days=5, is returning: 0
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-20~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/getReqTableCutoff.php?days=5, is returning: 0
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-20~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/keyToPh.php?key=3566, is returning: 03239754007
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-20~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/CountryCode.php?ph=03239754007, is returning: 32 - Belgium
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-25~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/search_phno.php?ph=3566&app=PollyGame&cutoff=0, is returning: 143
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-25~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/GetPreferredLangs.php?id=359269, is returning: Urdu,Urdu
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-25~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/keyToPh.php?key=3566, is returning: 03239754007
+
+
+
+
+
+%%$$~UnAssigned~0~Fri_2017-04-21_08-27-25~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/New_Call.php?reqid=359269&phno=3566&calltype=Call-me-back&status=InProgress&ch=WateenE1, is returning: 953030
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-25~L1:::~App: PollyGame, Call Type: Call-me-back, Phone Number: 3566, Originating Request ID: 359269, Call ID: 953030, Country: PK, ouserid: 03239754007, Age: 143, EHLAge: 0, Country Code: 32
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-25~L0:::~Call Table cutoff found at:0
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-25~L0:::~Req Table cutoff found at:0
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-25~L2:::~sayInt about to play: D:/xampp/htdocs/wa/prompts/Urdu/Polly/sil1500.wav D:/xampp/htdocs/wa/prompts/Urdu/Polly/sil1500.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L0:::~PGame prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/Polly/
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L0:::~PHealth prompts directory set to: D:/xampp/htdocs/wa/prompts/Urdu/EHL/
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L1:::~Now attempting to call:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L1:::~Calling via WateenE1.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L1:::~Dialling .
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L0:::~Starting Call Recording
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=953030&status=InProgress, is returning: Early Return.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=359269&status=fulfilled&ch=WateenE1, is returning: Early Return.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L2:::~Call Answered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-29~L0:::~pauseHere is called with param: TRUE
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L2:::~Inside PollyGameAnswerCall(). Calltype: Call-me-back
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L0:::~Starting Call Recording
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=953030&status=InProgress, is returning: Early Return.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Request_Status.php?reqid=359269&status=fulfilled&ch=WateenE1, is returning: Early Return.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L2:::~Call Answered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L2:::~Playing Greetings
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L2:::~About to listen to PGame Greetings.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L1:::~SA_Menu entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-30~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Test3mainprompt1.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-39~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-39~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Test3mainprompt2.wav D:/xampp/htdocs/wa/SunoAbbu/Prompts/wapis_janay_kay_liye.wav and parameters: [1 DIGITS], dtmf, , 2, 10, keysbadChoiceFCN, ReMkeystimeOutFCN,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-40~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-40~L1:::~SA_Play entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-40~L1:::~SA_GetFile entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-40~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/get_file_id.php?uid=3566&type=Tip&call_id=953030, is returning: {\"result\":{\"error\":false,\"files\":[{\"file_id\":\"1\",\"name\":\"Tip1.wav\",\"info\":\"Tip1-1.wav\",\"tip\":\"Tip1tip.wav\"},{\"file_id\":\"2\",\"name\":\"Tip2.wav\",\"info\":\"Tip2-1.wav\",\"tip\":\"Tip2tip.wav\"},{\"file_id\":\"3\",\"name\":\"Tip3.wav\",\"info\":\"Tip3-1.wav\",\"tip\":\"Tip3tip.wav\"},{\"file_id\":\"4\",\"name\":\"Tip4.wav\",\"info\":\"Tip4-1.wav\",\"tip\":\"Tip4tip.wav\"},{\"file_id\":\"5\",\"name\":\"Tip5.wav\",\"info\":\"Tip5-1.wav\",\"tip\":\"Tip5tip.wav\"},{\"file_id\":\"6\",\"name\":\"Tip6.wav\",\"info\":\"Tip6-1.wav\",\"tip\":\"Tip6tip.wav\"},{\"file_id\":\"7\",\"name\":\"Tip7.wav\",\"info\":\"Tip7-1.wav\",\"tip\":\"Tip7tip.wav\"},{\"file_id\":\"8\",\"name\":\"Tip8.wav\",\"info\":\"Tip8-1.wav\",\"tip\":\"Tip8tip.wav\"}]}}
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-40~L1:::~SA_GetFile JSON received: {\"result\":{\"error\":false,\"files\":[{\"file_id\":\"1\",\"name\":\"Tip1.wav\",\"info\":\"Tip1-1.wav\",\"tip\":\"Tip1tip.wav\"},{\"file_id\":\"2\",\"name\":\"Tip2.wav\",\"info\":\"Tip2-1.wav\",\"tip\":\"Tip2tip.wav\"},{\"file_id\":\"3\",\"name\":\"Tip3.wav\",\"info\":\"Tip3-1.wav\",\"tip\":\"Tip3tip.wav\"},{\"file_id\":\"4\",\"name\":\"Tip4.wav\",\"info\":\"Tip4-1.wav\",\"tip\":\"Tip4tip.wav\"},{\"file_id\":\"5\",\"name\":\"Tip5.wav\",\"info\":\"Tip5-1.wav\",\"tip\":\"Tip5tip.wav\"},{\"file_id\":\"6\",\"name\":\"Tip6.wav\",\"info\":\"Tip6-1.wav\",\"tip\":\"Tip6tip.wav\"},{\"file_id\":\"7\",\"name\":\"Tip7.wav\",\"info\":\"Tip7-1.wav\",\"tip\":\"Tip7tip.wav\"},{\"file_id\":\"8\",\"name\":\"Tip8.wav\",\"info\":\"Tip8-1.wav\",\"tip\":\"Tip8tip.wav\"}]}}
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-40~L1:::~SA_GetFile returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-40~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Tipintro.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-45~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Prompts/Tipintro.wav  was barged-in with 1
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-45~L2:::~sayInt complete. Now returning: value: 1, name: choice, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-45~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Tip1.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-50~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Recs/Tip1.wav was barged-in with 1
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-50~L2:::~sayInt complete. Now returning: value: 1, name: choice, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-50~L1:::~SA_CaptureEvent entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-50~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/set_call.php?uid=3566&f_id=1&call_id=953030&action_id=1, is returning: {\"result\":{\"error\":false,\"id\":92,\"message\":\"Call Info Added\"}}
+
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-50~L1:::~SA_CaptureEvent JSON received: {\"result\":{\"error\":false,\"id\":92,\"message\":\"Call Info Added\"}}
+
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-50~L1:::~SA_CaptureEvent returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-27-50~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Tipoptions1.wav and parameters: [1 DIGITS], dtmf, , 2, 10, keysbadChoiceFCN, ReMkeystimeOutFCN,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-02~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 3, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-02~L1:::~SA_Forward entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-02~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward1.wav and parameters: [11 DIGITS], dtmf, 1, 3, 30, 20, keysbadChoiceFCN, keystimeOutFCN, #,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-15~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 03239754007, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-15~L2:::~Friend\'s phone number entered: 03239754007. Now playing it.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-15~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward8.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-16~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward8.wav  was barged-in with #
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-16~L2:::~sayInt complete. Now returning: value: #, name: choice, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-16~L2:::~sayInt about to play: D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/2.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/9.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/5.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/4.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-34~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-34~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward2.wav  and parameters: [1 DIGITS],*,#, dtmf, 1, 3, 5, keysbadChoiceFCN, keystimeOutFCN,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~SA_GetDeliveryInfo entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/get_delivery_info.php?uid=3566, is returning: {\"result\":{\"error\":false,\"count\":\"9\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~SA_GetDeliveryInfo JSON received: {\"result\":{\"error\":false,\"count\":\"9\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~SA_GetDeliveryInfo returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~SA_GetDeliveryInfo returning, error=false.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~SA_Record entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L2:::~Prompting user to record something of type: name
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L2:::~URI: http://127.0.0.1/wa/SunoAbbu/Scripts/save_recording.php?type=name&uid=3566&record_id=3566&call_id=953030&suno_abbu=true
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~recordAudio entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~recordAudio Record Params: Array
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L2:::~recordAudio was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward3.wav  and parameters: 1, 30, , 5, 10, #, audio/wav, http://127.0.0.1/wa/SunoAbbu/Scripts/save_recording.php?type=name&uid=3566&record_id=3566&call_id=953030&suno_abbu=true
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~recordAudio handling save_recording
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~recordAudio type = name , record_id = 3566
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-40~L1:::~recordAudio filepathFS = D:/xampp/htdocs/wa/SunoAbbu/Recs/U3566.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-49~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/save_recording.php?type=name&uid=3566&record_id=3566&call_id=953030&suno_abbu=true, is returning: {\"result\":{\"error\":false,\"message\":\"Name Must Have Been Saved?\"}}
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-49~L2:::~recordAudio complete. Now returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-49~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Replay.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-53~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-53~L2:::~Return value of record:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-53~L2:::~Replaying the recording of type: name
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-53~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/U3566.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-55~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-28-55~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Genconfirmation.wav  and parameters: [1 DIGITS],*,#, dtmf, 1, 3, 5, keysbadChoiceFCN, keystimeOutFCN,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L1:::~SA_Record returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/insertNewPhByMatchingFromOldTable.php?sender=3566&ph=03239754007, is returning: 3566
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L1:::~SA_CreateDeliveryRequest entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/new_delivery_request.php?uid=3566&file_id=1&call_id=953030&fuid=3566&type=Tip&info=0, is returning: {\"result\":{\"error\":false,\"id\":18,\"message\":\"Delivery Created\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L1:::~SA_CreateDeliveryRequest JSON received: {\"result\":{\"error\":false,\"id\":18,\"message\":\"Delivery Created\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L1:::~SA_CreateDeliveryRequest returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L1:::~SA_CreateDeliveryRequest returning, error=false.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/insertNewPhByMatchingFromOldTable.php?sender=3566&ph=03239754007, is returning: 3566
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/New_Req.php?recid=18&effect=23704330&callid=953030&reqtype=Delivery&from=3566&phno=3566&status=Pending&syslang=&msglang=&testcall=FALSE&ch=, is returning: 359286
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-00~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward6.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-05~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-05~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Tip1.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-17~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Recs/Tip1.wav was barged-in with 2
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-17~L2:::~sayInt complete. Now returning: value: 2, name: choice, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-17~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Tipoptions1.wav and parameters: [1 DIGITS], dtmf, , 2, 10, keysbadChoiceFCN, ReMkeystimeOutFCN,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-27~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 3, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-27~L1:::~SA_Forward entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-27~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward1.wav and parameters: [11 DIGITS], dtmf, 1, 3, 30, 20, keysbadChoiceFCN, keystimeOutFCN, #,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-41~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 03239754007, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-41~L2:::~Friend\'s phone number entered: 03239754007. Now playing it.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-41~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward8.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-42~L2:::~sayInt prompt D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward8.wav  was barged-in with #
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-42~L2:::~sayInt complete. Now returning: value: #, name: choice, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-42~L2:::~sayInt about to play: D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/2.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/9.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/5.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/4.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-46~L2:::~sayInt prompt D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/2.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/9.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/5.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/4.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav was barged-in with 3
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-46~L2:::~sayInt complete. Now returning: value: 3, name: choice, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-46~L2:::~User pressed 3 to skip D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/2.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/3.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/9.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/5.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/4.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/0.wav
+D:/xampp/htdocs/wa/RaahEMaa/Prompts/7.wav.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-46~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward2.wav  and parameters: [1 DIGITS],*,#, dtmf, 1, 3, 5, keysbadChoiceFCN, keystimeOutFCN,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~SA_GetDeliveryInfo entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/get_delivery_info.php?uid=3566, is returning: {\"result\":{\"error\":false,\"count\":\"10\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~SA_GetDeliveryInfo JSON received: {\"result\":{\"error\":false,\"count\":\"10\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~SA_GetDeliveryInfo returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~SA_GetDeliveryInfo returning, error=false.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~SA_Record entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L2:::~Prompting user to record something of type: name
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L2:::~URI: http://127.0.0.1/wa/SunoAbbu/Scripts/save_recording.php?type=name&uid=3566&record_id=3566&call_id=953030&suno_abbu=true
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~recordAudio entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~recordAudio Record Params: Array
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L2:::~recordAudio was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward3.wav  and parameters: 1, 30, , 5, 10, #, audio/wav, http://127.0.0.1/wa/SunoAbbu/Scripts/save_recording.php?type=name&uid=3566&record_id=3566&call_id=953030&suno_abbu=true
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~recordAudio handling save_recording
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~recordAudio type = name , record_id = 3566
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-29-51~L1:::~recordAudio filepathFS = D:/xampp/htdocs/wa/SunoAbbu/Recs/U3566.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-01~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/save_recording.php?type=name&uid=3566&record_id=3566&call_id=953030&suno_abbu=true, is returning: {\"result\":{\"error\":false,\"message\":\"Name Must Have Been Saved?\"}}
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-01~L2:::~recordAudio complete. Now returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-01~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Replay.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-04~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-04~L2:::~Return value of record:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-04~L2:::~Replaying the recording of type: name
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-04~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/U3566.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-07~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-07~L2:::~gatherInput was called with prompt: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Genconfirmation.wav  and parameters: [1 DIGITS],*,#, dtmf, 1, 3, 5, keysbadChoiceFCN, keystimeOutFCN,
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L2:::~gatherTnputFreeSwitch complete. Now returning: value: 1, name: choice
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L1:::~SA_Record returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/insertNewPhByMatchingFromOldTable.php?sender=3566&ph=03239754007, is returning: 3566
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L1:::~SA_CreateDeliveryRequest entered.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L0:::~doCurl called with url: http://127.0.0.1/wa/SunoAbbu/Scripts/new_delivery_request.php?uid=3566&file_id=1&call_id=953030&fuid=3566&type=Tip&info=0, is returning: {\"result\":{\"error\":false,\"id\":19,\"message\":\"Delivery Created\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L1:::~SA_CreateDeliveryRequest JSON received: {\"result\":{\"error\":false,\"id\":19,\"message\":\"Delivery Created\"}}
+
+
+
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L1:::~SA_CreateDeliveryRequest returning.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L1:::~SA_CreateDeliveryRequest returning, error=false.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/insertNewPhByMatchingFromOldTable.php?sender=3566&ph=03239754007, is returning: 3566
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/New_Req.php?recid=19&effect=23704330&callid=953030&reqtype=Delivery&from=3566&phno=3566&status=Pending&syslang=&msglang=&testcall=FALSE&ch=, is returning: 359294
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-14~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Prompts/Forward6.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-19~L2:::~sayInt complete. Now returning: value: -, name: not_Good_timeout_or_invalid, attempt: , choice:
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-19~L2:::~sayInt about to play: D:/xampp/htdocs/wa/SunoAbbu/Recs/Tip1.wav
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L1:::~Is the current call active? false. Hanging up if the call is not active.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L2:::~Prehangup was called.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Waiting_DLV_Reqs.php?rcallid=953030, is returning: Early Return.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Status.php?callid=953030&status=Answered, is returning: Early Return.
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L0:::~calledID:
+-ERR no reply
+, SessionID: 09441eb7-cdcc-4da6-b4bd-de7eb08eae85
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L2:::~Hanging Up. Call ended for callid: 953030
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L0:::~doCurl called with url: http://127.0.0.1/wa/DBScripts/Update_Call_Endtime.php?callid=953030, is returning: 0
+
+
+
+
+
+%%$$~953030~0~Fri_2017-04-21_08-30-22~L0:::~sendLogs called.
+
+
+
+
+
+%%$$
